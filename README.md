@@ -1,2 +1,9 @@
-# python-calculator
- Python Learning Journey — Day 1 Project! Aaj maine apna pehla Python Calculator banaya! Is project mein maine seekha: 🔹 Functions kaise banate hain 🔹 While loop se program ko repeat karna 🔹 User se input lena 🔹 Division by zero error handle karna
+🚀 Python Learning Journey — Day 1 Project!
+Today I built a Python Calculator!
+What I learned in this project:
+✅ How to create Functions
+✅ Using While Loop to repeat the program
+✅ Taking User Input
+✅ Handling Division by Zero Error
+I am currently learning Python and working towards becoming a Data Analyst!
+
